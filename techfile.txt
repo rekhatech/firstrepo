@@ -1,3 +1,4 @@
 hai welcome to git 
 let start...
 doing my second commit
+going to do staging after creating a second txt file
